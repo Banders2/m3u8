@@ -1,5 +1,6 @@
 requests
 flask
 requests_cache
-selenium
-m3u8
+# selenium
+# m3u8
+selenium-wire 
